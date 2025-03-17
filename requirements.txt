@@ -1,2 +1,2 @@
-espeak-ng-python==1.0.5
+py-espeak-ng==0.1.8
 RPi.GPIO==0.7.1
