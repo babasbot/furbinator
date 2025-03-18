@@ -12,5 +12,5 @@ _esng = ESpeakNG(**esng_cfg)
 
 def say(text):
     print("tts:", text)
-    _esng.say(text)
+    _esng.say(text, sync=True)
 
